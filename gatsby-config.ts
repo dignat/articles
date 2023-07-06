@@ -15,7 +15,7 @@ const config: GatsbyConfig = {
       "accessToken": "yb3cPIlPz3LHR1dhYFzovibVaXzSOob45vDY01qZgmQ",
       "spaceId": "y38bqrdu04np"
     }
-  }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-sitemap", {
+  }, "gatsby-plugin-postcss", "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/icon.png"
